@@ -90,4 +90,5 @@ function kep(selectCity, demoSpan, imageDiv) {
     // végül cseréljük ki az imageDiv tartalmát az új képre
 
     imageDiv.replaceChildren(img);
+    //Itt van valtoztatvagit add . 
 };
